@@ -9,6 +9,7 @@ int main()
 {
 	char c;
 	int m, n1,n2;
+	system("Color 70");
 	do
 	{
 		printf("==========={-Welcome to the calculator-}==========\n");
